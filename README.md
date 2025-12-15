@@ -1,4 +1,4 @@
-# 🏨 Hotel Reservation System
+#  Hotel Reservation System
 
 ##  Project Overview :
 The **Hotel Reservation System** is a database-driven application designed to automate and manage hotel bookings efficiently.  
@@ -78,4 +78,4 @@ Advanced analytics dashboard
 
 Author
 Name: Sujit Ghadi
-GitHub: 
+GitHub: https://github.com/ghadisujit1005/Hotel-Reservation-System
