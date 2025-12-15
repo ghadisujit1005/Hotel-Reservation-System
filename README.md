@@ -52,6 +52,7 @@ SELECT r.room_number, r.room_type, r.price_per_night
 FROM Rooms r
 JOIN Hotels h ON r.ho
 
+```
 
 Reports Generated :
 Total revenue per hotel
